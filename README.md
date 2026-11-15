@@ -6,7 +6,7 @@ Overtime, I plan to organize and tidy up the exposition and upload them to arXiv
 
 The purpose of the repository is to make the results available to more people earlier.
 
-Right now the results focus on harmonic analysis, especially the line of research concerning Kakeya sets, decoupling inequalities etc.
+Right now the results focus on harmonic analysis, especially the line of research concerning Kakeya sets, restriction theorems, decoupling inequalities etc.
 
 Overtime I plan to include more results from other fields of mathematics. 
 
