@@ -1,6 +1,6 @@
 Hello! My name is Jiahan Du. I am a software engineer working at Annapurna Labs. Welcome to my repository!
 
-This repository contains mathematical results obtained with the help of ChatGPT 6 Astra.
+This repository contains mathematical results I obtained with the help of ChatGPT 6 Astra.
 
 Overtime, I plan to organize and tidy up the exposition and upload them to arXiv.
 
