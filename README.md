@@ -1,5 +1,15 @@
-These are math papers that resulted from conversations between ChatGPT6 Pro and me.
+Hello! Welcome to Jiahan's repository. I am a software engineer working at Annapurna Labs.
 
-I'm verifying them manually and hopefully, if they are correct, upload them to arXiv.
+This repository contains mathematical results obtained with the help of ChatGPT 6 Astra.
 
-The purpose of the repository is to make the results available to more people earlier. 
+Overtime, I plan to organize and tidy up the exposition and upload them to arXiv.
+
+The purpose of the repository is to make the results available to more people earlier.
+
+Right now the results focus on harmonic analysis, especially the line of research concerning Kakeya sets, decoupling inequalities etc.
+
+Overtime I plan to include more results from other fields of mathematics. 
+
+Contact me at jiahandu@outlook.com or dujiahan0212@gmail.com if you spot a mistake or would like to contribute. 
+
+
