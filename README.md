@@ -1,4 +1,4 @@
-Hello! Welcome to Jiahan's repository. I am a software engineer working at Annapurna Labs.
+Hello! My name is Jiahan Du, and welcome to my repository. I am a software engineer working at Annapurna Labs.
 
 This repository contains mathematical results obtained with the help of ChatGPT 6 Astra.
 
